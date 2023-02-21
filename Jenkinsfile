@@ -1,5 +1,5 @@
 pipeline {
-    agent { node { label 'swarm-ci' } }
+    agent {}
 
     stages {
         stage("Prepare") {
