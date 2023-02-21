@@ -1,5 +1,6 @@
 pipeline {
-    agent {}
+    agent {
+    node {  }}
 
     stages {
         stage("Prepare") {
