@@ -11,6 +11,9 @@ pipeline {
         stage("Build"){
             steps{
                 sh "mvn -v"
+                sh "mvn clean package"
+                sh "docker build -t maven_web ."
+                sh "docker run -it -p 8000:8080 maven_web"
             }
         }
         }

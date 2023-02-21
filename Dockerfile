@@ -1,3 +1,4 @@
+#From docker hub
 FROM qiyue0123/maven_web_tomcat
 
 # 将本地文件复制到容器中的 webapps 目录
