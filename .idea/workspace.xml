@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50f89a11-d3e1-4d27-8441-70c55e0af310" name="Changes" comment="use docker fix2">
+    <list default="true" id="50f89a11-d3e1-4d27-8441-70c55e0af310" name="Changes" comment="use docker fix4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676959814200</updated>
-      <workItem from="1676959815055" duration="6695000" />
+      <workItem from="1676959815055" duration="8107000" />
     </task>
     <task id="LOCAL-00001" summary="Dockerfile">
       <created>1676967377223</created>
@@ -130,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676971141707</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="use docker fix3">
+      <created>1676971808636</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676971808636</updated>
+    </task>
+    <task id="LOCAL-00012" summary="use docker fix4">
+      <created>1676971966752</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676971966752</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +170,8 @@
     <MESSAGE value="use docker" />
     <MESSAGE value="use docker fix" />
     <MESSAGE value="use docker fix2" />
-    <option name="LAST_COMMIT_MESSAGE" value="use docker fix2" />
+    <MESSAGE value="use docker fix3" />
+    <MESSAGE value="use docker fix4" />
+    <option name="LAST_COMMIT_MESSAGE" value="use docker fix4" />
   </component>
 </project>
